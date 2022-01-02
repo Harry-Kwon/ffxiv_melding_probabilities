@@ -12,3 +12,6 @@ Probabilties for full pentameld with x number of materia used:
 
 ## 5% Melds (Materia IX)
 ![5](graphs/5.png)
+
+## All IX Melds
+![cumulative](graphs/cumulativeIX.png)
